@@ -1,0 +1,13 @@
+.inform-service {
+   width: 375px;
+   &__image {
+      max-height: 80px;
+      margin: 0 0 20px;
+   }
+   &__title {
+      font-weight: 700;
+      font-size: 36px;
+      line-height: 42px;
+      color: var(--blue-text-color);
+   }
+}

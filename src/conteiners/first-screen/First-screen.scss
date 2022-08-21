@@ -1,0 +1,19 @@
+.first-screen {
+   max-width: 1440px;
+   height: 720px;
+   background-image: var(--background-image);
+   display: flexbox;
+   text-align: center;
+   margin: 20px 0 0;
+   .first-screen_title {
+      padding: 200px 0 0;
+      font-weight: 700;
+      font-size: 64px;
+      line-height: 75px;
+      color: var(--blue-text-color);
+   }
+   .first-screen_text{
+      padding: 25px 0 0;
+      line-height: 28px;
+   }
+}

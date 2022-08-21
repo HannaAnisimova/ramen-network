@@ -1,0 +1,11 @@
+.wrapper {
+   display: flex;
+   width: 700px;
+   justify-content: space-between;
+   
+   .wrapper_item{
+      font-weight: 700;
+      font-size: calc(10px + 12 * (100vw / 1440));
+      line-height: 28px;
+   }
+}

@@ -1,0 +1,14 @@
+.inform {
+   display: flex;
+   justify-content: space-between;
+   text-align: center;
+   margin: 70px 0 0;
+   &__title {
+      font-weight: 700;
+      font-size: 36px;
+      line-height: 42px;
+      text-align: center;
+      margin: 80px 0 0;
+      color: var(--blue-text-color);
+   }
+}

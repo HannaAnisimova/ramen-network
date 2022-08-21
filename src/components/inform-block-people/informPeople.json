@@ -1,0 +1,27 @@
+[
+   {
+      "image": "images/inform/Damian.png",
+      "name":  "Damian",
+      "post": "CEO"
+   },
+   {
+      "image": "images/inform/Manoj.png",
+      "name":  "Manoj",
+      "post": "CTO"
+   },
+   {
+      "image": "images/inform/Ricardo.png",
+      "name":  "Ricardo",
+      "post": "UX Design Lead"
+   },
+   {
+      "image": "images/inform/Adonis.png",
+      "name":  "Adonis",
+      "post": "Front-End Lead"
+   },
+   {
+      "image": "images/inform/Jackson.png",
+      "name":  "Jackson Green",
+      "post": "Full-Stack Lead"
+   }
+]

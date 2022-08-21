@@ -1,0 +1,16 @@
+.theme-buttons {
+   padding: 5px 15px;
+   margin: 0 0 0 15px;
+   display: flex;
+   align-items: сenter;
+   background-color: var(--blue-background-color);
+   border-radius: 30px;
+   .button{
+      border: none;
+      background-color: var(--blue-background-color);
+      color: var(--blue-background-text);
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 23px;
+   }
+}

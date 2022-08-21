@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import FirstScreen from './conteiners/first-screen/First-screen'
+import Header from './conteiners/header/Header'
+import InformBlock from './conteiners/infom-block/Inform-block'
+import NewsBlock from './conteiners/news-block/News-block'
+import Footer from './conteiners/footer/Footer'
+import './App.scss'
 
-function App() {
+const App = () => {
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <Header />
+      <FirstScreen />
+      <InformBlock />
+      <NewsBlock />
+      <Footer />
     </div>
-  );
+  )
 }
-
-export default App;
+export default App

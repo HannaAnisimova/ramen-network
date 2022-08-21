@@ -1,0 +1,25 @@
+// dark theme
+html[data-theme='dark'] {
+  --background-color: #061121;
+  --blue-background-color: #1ABCFE;
+  --background-image: url(../conteiners/first-screen/dark-background.png);
+  
+  --text-color: #ffffff;
+  --blue-text-color: #1ABCFE;
+  --blue-background-text: #061121;
+
+ }
+ 
+ // light theme
+html[data-theme='light'] {
+  --background-color: #E5E5E5;
+  --blue-background-color: #1ABCFE;
+  --background-image: url(../conteiners/first-screen/light-background.png);
+
+
+  --text-color: #404040;
+  --blue-text-color: #1ABCFE;
+  --blue-background-text: #061121;
+
+}
+

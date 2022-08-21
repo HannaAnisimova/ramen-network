@@ -1,0 +1,17 @@
+[
+   {
+      "image": "images/inform/check.png",
+      "title":  "Simple Marketing Page",
+      "text": "You get your own, branded marketing page"
+   },
+   {
+      "image": "images/inform/gem.png",
+      "title":  "Manage Your Leads Efficiently",
+      "text": "Manage and track your leads. You receive project requests and you have the power to choose which projects fit you best"
+   },
+   {
+      "image": "images/inform/bolt.png",
+      "title":  "Show Your Best Work",
+      "text": "By writing case studies of how you work, you can give potential clients a glimpse of the processes you follow"
+   }
+]
